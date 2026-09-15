@@ -14,3 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+This repository is part of the IBM Git and GitHub final project.
